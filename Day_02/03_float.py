@@ -8,3 +8,12 @@ print(my_float)
 pi = 3.14159
 balance = 1000.50
 temperature = -5.7
+
+
+num1 = 2.5
+num2 = 2.5
+total = num1 + num2
+print(total)
+print(type(total))
+
+print(type(int(total)))
