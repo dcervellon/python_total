@@ -10,3 +10,6 @@ print(result)
 
 result = text[10:14].lower()
 print(result)
+
+
+

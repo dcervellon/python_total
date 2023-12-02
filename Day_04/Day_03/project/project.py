@@ -134,3 +134,4 @@ count_repeated(user_text, letters)
 count_words(user_text)
 index_letters(user_text)
 reverse_text(user_text)
+
